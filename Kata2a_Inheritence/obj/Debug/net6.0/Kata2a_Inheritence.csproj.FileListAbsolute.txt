@@ -1,0 +1,15 @@
+C:\Users\Shohruh\Documents\Visual Studio 2022\Repos\Kata2a\Kata2a_Inheritence\bin\Debug\net6.0\Kata2a_Inheritence.exe
+C:\Users\Shohruh\Documents\Visual Studio 2022\Repos\Kata2a\Kata2a_Inheritence\bin\Debug\net6.0\Kata2a_Inheritence.deps.json
+C:\Users\Shohruh\Documents\Visual Studio 2022\Repos\Kata2a\Kata2a_Inheritence\bin\Debug\net6.0\Kata2a_Inheritence.runtimeconfig.json
+C:\Users\Shohruh\Documents\Visual Studio 2022\Repos\Kata2a\Kata2a_Inheritence\bin\Debug\net6.0\Kata2a_Inheritence.dll
+C:\Users\Shohruh\Documents\Visual Studio 2022\Repos\Kata2a\Kata2a_Inheritence\bin\Debug\net6.0\Kata2a_Inheritence.pdb
+C:\Users\Shohruh\Documents\Visual Studio 2022\Repos\Kata2a\Kata2a_Inheritence\obj\Debug\net6.0\Kata2a_Inheritence.csproj.AssemblyReference.cache
+C:\Users\Shohruh\Documents\Visual Studio 2022\Repos\Kata2a\Kata2a_Inheritence\obj\Debug\net6.0\Kata2a_Inheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shohruh\Documents\Visual Studio 2022\Repos\Kata2a\Kata2a_Inheritence\obj\Debug\net6.0\Kata2a_Inheritence.AssemblyInfoInputs.cache
+C:\Users\Shohruh\Documents\Visual Studio 2022\Repos\Kata2a\Kata2a_Inheritence\obj\Debug\net6.0\Kata2a_Inheritence.AssemblyInfo.cs
+C:\Users\Shohruh\Documents\Visual Studio 2022\Repos\Kata2a\Kata2a_Inheritence\obj\Debug\net6.0\Kata2a_Inheritence.csproj.CoreCompileInputs.cache
+C:\Users\Shohruh\Documents\Visual Studio 2022\Repos\Kata2a\Kata2a_Inheritence\obj\Debug\net6.0\Kata2a_Inheritence.dll
+C:\Users\Shohruh\Documents\Visual Studio 2022\Repos\Kata2a\Kata2a_Inheritence\obj\Debug\net6.0\refint\Kata2a_Inheritence.dll
+C:\Users\Shohruh\Documents\Visual Studio 2022\Repos\Kata2a\Kata2a_Inheritence\obj\Debug\net6.0\Kata2a_Inheritence.pdb
+C:\Users\Shohruh\Documents\Visual Studio 2022\Repos\Kata2a\Kata2a_Inheritence\obj\Debug\net6.0\Kata2a_Inheritence.genruntimeconfig.cache
+C:\Users\Shohruh\Documents\Visual Studio 2022\Repos\Kata2a\Kata2a_Inheritence\obj\Debug\net6.0\ref\Kata2a_Inheritence.dll
