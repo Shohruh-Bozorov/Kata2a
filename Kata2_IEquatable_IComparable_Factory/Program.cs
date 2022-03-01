@@ -1,4 +1,4 @@
-﻿using Kata2_IEquatable_IComparable_Factory;
+﻿using Kata2a_Inheritence;
 
 #region Kata test of Member and MemberList
 Console.WriteLine("Create a couple of members");
