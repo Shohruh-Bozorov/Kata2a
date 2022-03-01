@@ -8,7 +8,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Kata2.txt = Kata2.txt
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kata2_IEquatable_IComparable_Factory", "Kata2_IEquatable_IComparable_Factory\Kata2_IEquatable_IComparable_Factory.csproj", "{D30CD2CE-5509-4971-81A0-FEFBB6258CAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kata2a_Inheritence", "Kata2_IEquatable_IComparable_Factory\Kata2a_Inheritence.csproj", "{D30CD2CE-5509-4971-81A0-FEFBB6258CAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
